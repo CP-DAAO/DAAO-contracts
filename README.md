@@ -6,50 +6,49 @@
 * Originall user with EOA Could delegate Voting Power through delegate profile that linked with AA wallet
 * New user can deploy their own AAwallet that AI can vote with their comments in twitter
 
-# Tally in Optimism testnet
+# Optimism Testnet
+
+## Tally in Optimism testnet
 https://www.tally.xyz/gov/daao-op
 
-# Treasuary(TimeLock) in Optimism testnet
+## Treasuary(TimeLock) in Optimism testnet
 https://www.tally.xyz/gov/daao-op/treasury
 
-# Delegated Profile in Optimism testnet
+## Delegated Profile in Optimism testnet
 https://www.tally.xyz/gov/daao-op/delegates
 
-# optimism 🔗blockscout link
+## optimism 🔗blockscout link
 
-- 👨‍⚖️ Governor (Daao.sol)
-🔗blockscout link : https://optimism-sepolia.blockscout.com/address/0xAb563D95Aeb44aA2aa4FD49Bb7915E7C55CdEeB9
+👨‍⚖️ Governor (Daao.sol) : https://optimism-sepolia.blockscout.com/address/0xAb563D95Aeb44aA2aa4FD49Bb7915E7C55CdEeB9
 
-- 🪙 Token (DaaoToken.sol)
-🔗blockscout link : https://optimism-sepolia.blockscout.com/address/0xd3631F0ac03Cbee7FeA3ca472064e469385344d1
+🪙 Token (DaaoToken.sol) : https://optimism-sepolia.blockscout.com/address/0xd3631F0ac03Cbee7FeA3ca472064e469385344d1
 
-- ⏰Timelock Treasury (DaaoTimelock.sol)
-🔗blockscout link : https://optimism-sepolia.blockscout.com/address/0x97BD38745620387f14e34B3658C316b65da561D1
+⏰Timelock Treasury (DaaoTimelock.sol): https://optimism-sepolia.blockscout.com/address/0x97BD38745620387f14e34B3658C316b65da561D1
 
-# Tally in Base testnet
+# Base Testnet
+
+## Tally in Base testnet
 https://www.tally.xyz/gov/daao-base
 
-# Treasuary(TimeLock) in Base testnet
+## Treasuary(TimeLock) in Base testnet
 https://www.tally.xyz/gov/daao-base/treasury
 
-# Delegated Profile in Base testnet
+## Delegated Profile in Base testnet
 https://www.tally.xyz/gov/daao-base/delegates
 
-# base 🔗blockscout link
-- 👨‍⚖️ Governor (Daao.sol)
-🔗blockscout link : https://base-sepolia.blockscout.com/address/0x9bEe222fDb28F6AedcD9ab349f0c9DCAFFae9a97
+## base 🔗blockscout link
 
-- 🪙 Token (DaaoToken.sol)
-🔗blockscout link : https://base-sepolia.blockscout.com/address/0xaFcAB3B22E92d925fBbF45ae6FA7d1aa85724487
+👨‍⚖️ Governor (Daao.sol) : https://base-sepolia.blockscout.com/address/0x9bEe222fDb28F6AedcD9ab349f0c9DCAFFae9a97
 
-- ⏰Timelock Treasury (DaaoTimelock.sol)
-🔗blockscout link : https://base-sepolia.blockscout.com/address/0x7De94f71C5d6DB2Cdd87ceFd8984f8178525a0e4
+🪙 Token (DaaoToken.sol) : https://optimism-sepolia.blockscout.com/address/0xd3631F0ac03Cbee7FeA3ca472064e469385344d1
+
+⏰Timelock Treasury (DaaoTimelock.sol): https://base-sepolia.blockscout.com/address/0x7De94f71C5d6DB2Cdd87ceFd8984f8178525a0e4
 
 
 - proposal that passed but cannot execute without recordAI function
 https://www.tally.xyz/gov/daao-base/proposal/11141335929866216605553773698272746369487152417525508155983759260517915090325
 
-# About AI Recorder
+# AI Recorder
 
 to execute proposal it should be recorded by recordAI function in Daao.sol
 Third party or program like chainlink functions could run AI model and trigger this function.
