@@ -68,8 +68,7 @@ flowchart TD
     Tally -->|Governance Actions| Governor
     
     %% Clickable links (optional)
-    click AAWallet "https://blockscout.com" "Interact with AA Wallet on Blockscout"
-    click Governor "https://tally.xyz" "Governance actions on Tally"
+    click Blockscout "https://blockscout.com" "Interact with AA Wallet on Blockscout"
 ```
 
 # AI Recorder
